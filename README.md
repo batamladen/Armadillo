@@ -2,6 +2,8 @@
 
 Welcome to the Armadillo App repository! This project is a Python-based application packaged as an executable for easy use on Windows systems.
 
+![armadilooo](https://github.com/user-attachments/assets/3fe0c0a1-3b98-413a-a1f7-032d3fb94d58)
+
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
@@ -51,4 +53,4 @@ Please ensure your code follows the coding standards and includes tests where ap
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-![armadilooo](https://github.com/user-attachments/assets/3fe0c0a1-3b98-413a-a1f7-032d3fb94d58)
+
