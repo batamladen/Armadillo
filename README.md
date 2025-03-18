@@ -28,14 +28,13 @@ The Armadillo App is a simple and efficient application designed to perform simp
 
 1. Download the latest release from the [Releases section](https://github.com/batamladen/Armadillo/releases).
 2. Extract the ZIP file.
-3. Inside the extracted folder, find and run the `armadillo.exe` file.
+3. Inside the extracted folder, find and run the `Armadillo.exe` file.
 
 ## Usage
 
 1. After downloading and extracting the ZIP file, open the `armadillo.exe` file to start the application.
-2. The app will automatically load the required resources from the `assets/` folder.
-3. Create a shortcut on desktop if needed.
-4. Follow the on-screen instructions to interact with the app.
+2. Create a shortcut on desktop if needed.
+3. Follow the on-screen instructions to interact with the app.
 
 ## Contributing
 
@@ -50,8 +49,9 @@ Please ensure your code follows the coding standards and includes tests where ap
 
 ## TO-DO
 * Add another algorythm
-* Add a copy button at output text
-* Witing screen for loading
+* Add a copy button at output text ✔️
+  * Make it a bit more stylish
+* Loading screen at start
 
 ## License
 
