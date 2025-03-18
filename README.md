@@ -48,6 +48,11 @@ We welcome contributions! To contribute:
 
 Please ensure your code follows the coding standards and includes tests where applicable.
 
+## TO-DO
+* Add another algorythm
+* Add a copy button at output text
+* Witing screen for loading
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/batamladen/Armadillo/blob/main/LICENSE.md) file for details.
