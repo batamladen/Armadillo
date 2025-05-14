@@ -22,6 +22,8 @@ The Armadillo App is a simple and efficient application designed to perform simp
 - Encryption and Decryption
 - Available Algorithms:
   - Cesar Chiper
+  - XOR
+  - AES
 - Lightweight
 
 ## Installation
@@ -48,10 +50,9 @@ We welcome contributions! To contribute:
 Please ensure your code follows the coding standards and includes tests where applicable.
 
 ## TO-DO
-* Add another algorythm
+* Add AES algorythm ✔️
 * Add a copy button at output text ✔️
-  * Make it a bit more stylish
-* Loading screen at start
+* Loading screen at start (GIF of an armadillo running)
 
 ## License
 
